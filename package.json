@@ -1,6 +1,6 @@
 {
   "name": "@khokonm/klogs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A universal logger for all your projects.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/khokonm/kLogs/issues"
   },
-  "homepage": "https://github.com/khokonm/kLogs#readme",
+  "homepage": "https://logs.khokon.dev",
   "dependencies": {
     "axios": "^0.26.1"
   }

@@ -1,5 +1,5 @@
 # Welcome to kLogs
-> The only log manager you'll ever need!
+> The only log manager you'll ever need! Sponsored by [Blog Desire](https://www.blogdesire.com)
 
 kLogs is a super simple logger for any of your projects. Some example use cases are tracking errors on your project. Sample SDK is available for some common languages. Yet, it's extremely simple to use with any programming language!
 # Primary Concept
@@ -112,10 +112,10 @@ If you want to contribute to kLogs, please check out [here](
     https://github.com/khokonm/kLogs
 ).
 # Version
-kLogs version is [0.1.0](
+kLogs version is [1.0.1](
     https://logs.khokon.dev/
 ).
 # Changelog
-- [0.1.0](
+- [1.0.1](
     https://logs.khokon.dev/
 ): Initial release.
