@@ -10,8 +10,16 @@ First you load the kLogs SDK.
 ```javascript
 <script src="https://logs.khokon.dev/kLogs.js">
 ```
-> NPM Package for kLogs is comming soon!
+Or install via npm
 
+```
+npm install @khokonm/klogs
+```
+
+Make sure to require kLogs before using when installed via npm
+```javascript
+const kLogs = require("@khokonm/klogs")
+```
 
 Then you create a new instance of the kLogs SDK.
 ```javascript
